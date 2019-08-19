@@ -1,0 +1,12 @@
+{
+    "name": "tomasz/users",
+    "description": "Users",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Tomasz Szydłowski",
+            "email": "t.szydlowski@mal.net.pl"
+        }
+    ],
+    "require": {}
+}
